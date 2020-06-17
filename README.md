@@ -1,2 +1,2 @@
 # Army2
-ActionScript3 Game
+ActionScript3 Android Game
